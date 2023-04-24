@@ -7,4 +7,4 @@
 
 <strong>strong text</strong>
 
-[Chrome](https://www.wikipedia.be)
+[wikipedia](https://www.wikipedia.be)
